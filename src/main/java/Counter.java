@@ -46,5 +46,9 @@ public class Counter {
 	public int getCount() {
 		return count;
 	}
+
+	public void tambahDua() {
+		this.count += 2;
+	}
 	
 }
